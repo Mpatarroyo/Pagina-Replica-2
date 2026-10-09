@@ -128,7 +128,6 @@ body {
     letter-spacing: 1px;
 }
 
-
 #columna4 {
     display: grid;
     grid-template-columns: 1fr auto 1.5fr;
