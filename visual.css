@@ -99,7 +99,6 @@ body {
     width: 100%;
     max-width: 420px;
     height: auto;
-    border-radius: 8px;
     object-fit: cover;
 }
 
